@@ -1,6 +1,7 @@
 .DS_Store
 Battle.net/
 **/node_modules
-.vim
+.vim/plugged
+
 
 

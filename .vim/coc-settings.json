@@ -1,0 +1,18 @@
+{
+  "tsserver.enable": true,
+  // https://github.com/fannheyward/coc-pyright?tab=readme-ov-file
+  "pyright.inlayHints.functionReturnTypes": false,
+  "pyright.inlayHints.variableTypes": false,
+  "pyright.inlayHints.parameterTypes": false,
+  "languageserver": {
+    // "flow": {
+    //   "command": "/Users/zhonghaibo/.nvm/versions/node/v22.1.0/bin/npx",
+    //   "args": ["flow", "lsp"],
+    //   "filetypes": ["javascript", "javascriptreact"],
+    //   "initializationOptions": {},
+    //   "requireRootPattern": true,
+    //   "settings": {},
+    //   "rootPatterns": [".flowconfig", "package.json"]
+    // }
+  }
+}
