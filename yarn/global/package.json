@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@webpack-cli/init": "^0.3.0",
+    "create-next-app": "^13.2.4"
+  }
+}
