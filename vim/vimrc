@@ -95,7 +95,7 @@ Plug 'styled-components/vim-styled-components', { 'branch': 'main' }
 
 Plug 'ap/vim-css-color'
 Plug 'bohaz87/runcode.vim'
-Plug 'bohaz87/vim-session'
+" Plug 'bohaz87/vim-session'
 
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
 
@@ -131,7 +131,7 @@ set cursorline
 "let ayucolor="light"  " for light version of theme
 "let ayucolor="dark"   " for dark version of theme
 let ayucolor="mirage" " for mirage version of theme
-colorscheme ayu
+" colorscheme ayu
 
 " https://www.calmar.ws/vim/256-xterm-24bit-rgb-color-chart.html
 hi Normal guibg=NONE ctermbg=NONE
